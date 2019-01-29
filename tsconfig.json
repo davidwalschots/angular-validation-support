@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "angular-validation-support": [
+        "dist/angular-validation-support"
+      ],
+      "angular-validation-support/*": [
+        "dist/angular-validation-support/*"
+      ]
+    }
   }
 }
