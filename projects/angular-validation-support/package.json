@@ -1,7 +1,7 @@
 {
   "name": "angular-validation-support",
   "description": "Support library for angular-reactive-validation and angular-validation-messages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/davidwalschots/angular-validation-support.git"
