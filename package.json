@@ -8,7 +8,8 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build:lib": "ng build angular-validation-support && cpx README.md dist/angular-validation-support"
+    "build:lib": "ng build angular-validation-support && cpx README.md dist/angular-validation-support",
+    "publish": "npm publish dist/angular-validation-support"
   },
   "private": true,
   "dependencies": {
